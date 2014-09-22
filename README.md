@@ -24,4 +24,6 @@ export CATMEANINGS_PASSWORD=aPasswordYouWouldNeverActuallyUse
 ruby browsing_loop.rb
 ```
 
+To stop a script once it's running, hit ctrl-C (`^C`).
+
 You should read both of these scripts. They're super easy to understand.
